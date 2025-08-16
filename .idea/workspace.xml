@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d39adf62-674d-425d-819b-8c49418f2d0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo/CSV/wl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo/CSV/wl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo/OutlierRemoval.py" beforeDir="false" afterPath="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo/OutlierRemoval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo/savgol.py" beforeDir="false" afterPath="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo/savgol.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vinicius/SOLOS-NIR" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="30Er6GHTB304WMsr3JHe8RKwcvd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.OutlierRemoval.executor": "Run",
+    "Python.savgol.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ksksg/Desktop/IC-JEF",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d39adf62-674d-425d-819b-8c49418f2d0d" name="Changes" comment="" />
+      <created>1753203395257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753203395257</updated>
+      <workItem from="1753203396332" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IC_JEF$savgol.coverage" NAME="savgol Coverage Results" MODIFIED="1753203634898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo" />
+    <SUITE FILE_PATH="coverage/IC_JEF$OutlierRemoval.coverage" NAME="OutlierRemoval Coverage Results" MODIFIED="1753203652365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vinicius/SOLOS-NIR/Cambissolo" />
+  </component>
+</project>
